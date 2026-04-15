@@ -78,7 +78,7 @@
                                                                                   "@odata.id":  "deviceManagement/deviceCompliancePolicies(\u0027e87d2b39-75a0-4eca-8729-db419a7551fc\u0027)/scheduledActionsForRule(\u0027e87d2b39-75a0-4eca-8729-db419a7551fc\u0027)/scheduledActionConfigurations(\u0027b28fa48d-4ea7-4e4d-83fd-46e5e89f4cf9\u0027)",
                                                                                   "@odata.editLink":  "deviceManagement/deviceCompliancePolicies(\u0027e87d2b39-75a0-4eca-8729-db419a7551fc\u0027)/scheduledActionsForRule(\u0027e87d2b39-75a0-4eca-8729-db419a7551fc\u0027)/scheduledActionConfigurations(\u0027b28fa48d-4ea7-4e4d-83fd-46e5e89f4cf9\u0027)",
                                                                                   "id":  "b28fa48d-4ea7-4e4d-83fd-46e5e89f4cf9",
-                                                                                  "gracePeriodHours":  12,
+                                                                                  "gracePeriodHours":  24,
                                                                                   "actionType@odata.type":  "#microsoft.graph.deviceComplianceActionType",
                                                                                   "actionType":  "block",
                                                                                   "notificationTemplateId":  "00000000-0000-0000-0000-000000000000",
