@@ -9,7 +9,7 @@
   "description": "",
   "lastModifiedDateTime@odata.type": "#DateTimeOffset",
   "lastModifiedDateTime": "2025-08-13T12:51:08.624606Z",
-  "name": "Win - OIB - ES - Encryption - D - BitLocker (OS Disk) - v3.7",
+  "name": "Win - OIB - ES - Encryption - D - BitLocker (OS Disk) - FIT - v3.7",
   "platforms@odata.type": "#microsoft.graph.deviceManagementConfigurationPlatforms",
   "platforms": "windows10",
   "priorityMetaData": null,
