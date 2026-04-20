@@ -9,7 +9,7 @@
     "description":  "",
     "lastModifiedDateTime@odata.type":  "#DateTimeOffset",
     "lastModifiedDateTime":  "2024-12-05T19:36:05.118625Z",
-    "name":  "Win - OIB - ES - Windows Firewall - D - Firewall Configuration - v3.1",
+    "name":  "Win - OIB - ES - Windows Firewall - D - Firewall Configuration - FIT - v3.1",
     "platforms@odata.type":  "#microsoft.graph.deviceManagementConfigurationPlatforms",
     "platforms":  "windows10",
     "priorityMetaData":  null,
