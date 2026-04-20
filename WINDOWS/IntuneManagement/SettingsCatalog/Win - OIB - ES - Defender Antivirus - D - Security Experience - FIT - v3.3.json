@@ -9,7 +9,7 @@
     "description":  "NOTE: The \"Tamper Protection\" setting requires an active Defender for Endpoint P1/P2 or Defender for Business license.\n\nhttps://learn.microsoft.com/en-us/defender-endpoint/prevent-changes-to-security-settings-with-tamper-protection",
     "lastModifiedDateTime@odata.type":  "#DateTimeOffset",
     "lastModifiedDateTime":  "2024-12-05T19:34:39.6156759Z",
-    "name":  "Win - OIB - ES - Defender Antivirus - D - Security Experience - v3.3",
+    "name":  "Win - OIB - ES - Defender Antivirus - D - Security Experience - FIT - v3.3",
     "platforms@odata.type":  "#microsoft.graph.deviceManagementConfigurationPlatforms",
     "platforms":  "windows10",
     "priorityMetaData":  null,
