@@ -196,7 +196,17 @@
                   "settingValueTemplateReference": null,
                   "value": "device_vendor_msft_policy_config_defender_attacksurfacereductionrules_blockabuseofexploitedvulnerablesigneddrivers_block",
                   "children@odata.type": "#Collection(microsoft.graph.deviceManagementConfigurationSettingInstance)",
-                  "children": []
+                  "children": [
+
+                  {
+                      "@odata.type": "#microsoft.graph.deviceManagementConfigurationSimpleSettingInstance",
+                      "settingDefinitionId": "device_vendor_msft_policy_config_defender_attacksurfacereductionrules_asronlyexclusions",
+                      "simpleSettingValue": {
+                        "@odata.type": "#microsoft.graph.deviceManagementConfigurationStringSettingValue",
+                        "value": "C:\\Program Files\\RepairTech\\LiveAgent\\app-*\\OpenHardwareMonitorLib.sys"
+                      }
+                    }
+                  ]
                 }
               },
               {
