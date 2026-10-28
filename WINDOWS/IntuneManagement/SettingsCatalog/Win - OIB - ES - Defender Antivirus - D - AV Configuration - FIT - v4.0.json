@@ -9,7 +9,7 @@
   "description": "OIBID:80C1B821-B768-43A5-B318-7E2A54290FD8",
   "lastModifiedDateTime@odata.type": "#DateTimeOffset",
   "lastModifiedDateTime": "2024-12-05T19:34:28.9754573Z",
-  "name": "Win - OIB - ES - Defender Antivirus - D - AV Configuration - v3.3",
+  "name": "Win - OIB - ES - Defender Antivirus - D - AV Configuration - FIT - v4.0",
   "platforms@odata.type": "#microsoft.graph.deviceManagementConfigurationPlatforms",
   "platforms": "windows10",
   "priorityMetaData": null,
@@ -741,7 +741,7 @@
                 "choiceSettingValue": {
                   "@odata.type": "#microsoft.graph.deviceManagementConfigurationChoiceSettingValue",
                   "settingValueTemplateReference": null,
-                  "value": "device_vendor_msft_policy_config_defender_threatseveritydefaultaction_moderateseveritythreats_remove",
+                  "value": "device_vendor_msft_policy_config_defender_threatseveritydefaultaction_moderateseveritythreats_quarantine",
                   "children@odata.type": "#Collection(microsoft.graph.deviceManagementConfigurationSettingInstance)",
                   "children": []
                 }
@@ -765,7 +765,7 @@
                 "choiceSettingValue": {
                   "@odata.type": "#microsoft.graph.deviceManagementConfigurationChoiceSettingValue",
                   "settingValueTemplateReference": null,
-                  "value": "device_vendor_msft_policy_config_defender_threatseveritydefaultaction_highseveritythreats_remove",
+                  "value": "device_vendor_msft_policy_config_defender_threatseveritydefaultaction_highseveritythreats_quarantine",
                   "children@odata.type": "#Collection(microsoft.graph.deviceManagementConfigurationSettingInstance)",
                   "children": []
                 }
