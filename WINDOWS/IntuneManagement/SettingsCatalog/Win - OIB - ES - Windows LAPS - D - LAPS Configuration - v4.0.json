@@ -181,7 +181,7 @@
             "settingValueTemplateId": "0deb6aee-8dac-40c4-a9dd-c3718e5c1d52",
             "useTemplateDefault": false
           },
-          "value": 1
+          "value": 4
         }
       }
     },
@@ -207,7 +207,7 @@
               "simpleSettingValue": {
                 "@odata.type": "#microsoft.graph.deviceManagementConfigurationStringSettingValue",
                 "settingValueTemplateReference": null,
-                "value": ""
+                "value": "$fortifyit.admin"
               }
             },
             {
